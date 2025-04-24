@@ -1,3 +1,6 @@
 [submodule "MarketPlace"]
 	path = MarketPlace
 	url = https://github.com/FilipeBispo/MarketPlace.git
+[submodule "turbin3-req"]
+	path = turbin3-req
+	url = https://github.com/FilipeBispo/turbin3-req.git
