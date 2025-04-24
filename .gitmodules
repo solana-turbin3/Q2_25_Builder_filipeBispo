@@ -4,3 +4,6 @@
 [submodule "turbin3-req"]
 	path = turbin3-req
 	url = https://github.com/FilipeBispo/turbin3-req.git
+[submodule "turbin3-preq2"]
+	path = turbin3-preq2
+	url = https://github.com/FilipeBispo/turbin3-preq2.git
