@@ -7,3 +7,6 @@
 [submodule "turbin3-preq2"]
 	path = turbin3-preq2
 	url = https://github.com/FilipeBispo/turbin3-preq2.git
+[submodule "vault"]
+	path = vault
+	url = https://github.com/FilipeBispo/vault.git
