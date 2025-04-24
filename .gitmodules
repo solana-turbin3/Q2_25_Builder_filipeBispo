@@ -1,0 +1,3 @@
+[submodule "MarketPlace"]
+	path = MarketPlace
+	url = https://github.com/FilipeBispo/MarketPlace.git
