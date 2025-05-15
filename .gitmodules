@@ -10,3 +10,6 @@
 [submodule "vault"]
 	path = vault
 	url = https://github.com/FilipeBispo/vault.git
+[submodule "XutaSC"]
+	path = XutaSC
+	url = https://github.com/FilipeBispo/XutaSC.git
